@@ -1,0 +1,12 @@
+/Users/rafaelbrito/Desktop/tp1_rafaelbrito_csharp/Main/bin/Debug/netcoreapp3.1/Main.deps.json
+/Users/rafaelbrito/Desktop/tp1_rafaelbrito_csharp/Main/bin/Debug/netcoreapp3.1/Main.runtimeconfig.json
+/Users/rafaelbrito/Desktop/tp1_rafaelbrito_csharp/Main/bin/Debug/netcoreapp3.1/Main.runtimeconfig.dev.json
+/Users/rafaelbrito/Desktop/tp1_rafaelbrito_csharp/Main/bin/Debug/netcoreapp3.1/Main.dll
+/Users/rafaelbrito/Desktop/tp1_rafaelbrito_csharp/Main/bin/Debug/netcoreapp3.1/Main.pdb
+/Users/rafaelbrito/Desktop/tp1_rafaelbrito_csharp/Main/obj/Debug/netcoreapp3.1/Main.csprojAssemblyReference.cache
+/Users/rafaelbrito/Desktop/tp1_rafaelbrito_csharp/Main/obj/Debug/netcoreapp3.1/Main.csproj.CoreCompileInputs.cache
+/Users/rafaelbrito/Desktop/tp1_rafaelbrito_csharp/Main/obj/Debug/netcoreapp3.1/Main.AssemblyInfoInputs.cache
+/Users/rafaelbrito/Desktop/tp1_rafaelbrito_csharp/Main/obj/Debug/netcoreapp3.1/Main.AssemblyInfo.cs
+/Users/rafaelbrito/Desktop/tp1_rafaelbrito_csharp/Main/obj/Debug/netcoreapp3.1/Main.dll
+/Users/rafaelbrito/Desktop/tp1_rafaelbrito_csharp/Main/obj/Debug/netcoreapp3.1/Main.pdb
+/Users/rafaelbrito/Desktop/tp1_rafaelbrito_csharp/Main/obj/Debug/netcoreapp3.1/Main.genruntimeconfig.cache
